@@ -1,0 +1,6 @@
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Domain\bin\Debug\EFDDDSample.Domain.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Domain\bin\Debug\EFDDDSample.Domain.pdb
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Domain\obj\Debug\EFDDDSample.Domain.csprojResolveAssemblyReference.cache
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Domain\obj\Debug\EFDDDSample.Domain.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Domain\obj\Debug\EFDDDSample.Domain.pdb
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Domain\bin\Debug\EFDDDSample.Domain.dll.config

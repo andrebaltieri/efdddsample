@@ -1,0 +1,12 @@
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\obj\Debug\EFDDDSample.Data.csprojResolveAssemblyReference.cache
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EFDDDSample.Data.dll.config
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EFDDDSample.Data.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EFDDDSample.Data.pdb
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EFDDDSample.Domain.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EntityFramework.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EFDDDSample.Domain.pdb
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EntityFramework.xml
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\obj\Debug\EFDDDSample.Data.dll
+C:\Users\GAtec\documents\visual studio 2013\Projects\EFDDDSample\EFDDDSample.Data\obj\Debug\EFDDDSample.Data.pdb
